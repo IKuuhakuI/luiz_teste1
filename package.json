@@ -1,7 +1,7 @@
 {
-  "name": "NoGameNoLifeApi",
+  "name": "luiz_teste1",
   "version": "1.0.0",
-  "description": "API de No Game No Life",
+  "description": "API pro teste1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
